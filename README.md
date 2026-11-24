@@ -6,8 +6,6 @@ Click-through, grabs no keys, ~1.7 MB RAM / ~0.5% CPU.
 白板风格的激光笔迹（X11 原生）：鼠标划过留下带光晕的轨迹，按时间淡出消失。
 窗口点击穿透（XShape 空输入区），不抓任何键盘按键，可与录屏/共享屏幕同时使用。
 
-![screenshot](screenshot.png)
-
 ## 用法
 
     laser-ink [--trail 600] [--radius 4] [--color '#ff2b2b'] [--opacity 1.0] [--demo]
