@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Laser Ink
+GenericName=Fading Laser Trail
+Comment=Whiteboard-style laser trail that fades away
+Exec=laser-ink-toggle
+Icon=laser-pointer
+Terminal=false
+Categories=Graphics;
